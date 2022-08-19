@@ -1,0 +1,17 @@
+html
+    head
+        title= 'Webus Tickets'
+    body
+        h1 Webus Ticket Management
+        a(class='button' href='/see_schedules') See Schedules
+        br
+        br
+        br
+        p Subscribe to Newsletter
+        form(name="consent" method='post' action='/newsletter/subscribe')
+            p
+                | E-mail:&nbsp;&nbsp;
+                input(type="text" name='e_mail')
+                |&nbsp;&nbsp;
+                button(type="submit") Subscribe
+        br

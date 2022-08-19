@@ -1,0 +1,19 @@
+{
+    "defaultHabit1Text": "عمل منتج (اضغط على القلم للتحرير)",
+    "defaultHabit2Text": "أكل طعام غير صحى (أنقر على القلم للتعديل)",
+    "defaultHabit3Text": "صعود السلم/استخدام المصعد (اضغط على قلم الرصاص للتعديل)",
+    "defaultHabit4Text": "Add a task to Habitica",
+    "defaultHabit4Notes": "Either a Habit, a Daily, or a To-Do",
+    "defaultTodo1Text": "الانضمام إلى Habitica (عَلِّم عليَّ)",
+    "defaultTodoNotes": "بإمكانك أن تكمل هذه المهمة، تعدلها، أو تحذفها.",
+    "defaultReward1Text": "15 دقيقة استراحة",
+    "defaultReward2Text": "كافئ نفسك",
+    "defaultReward2Notes": "شاهد التلفاز، إلعب لعبة، كل حلوى، الأمر يعود لك!",
+    "defaultTag1": "عمل",
+    "defaultTag2": "تمرين",
+    "defaultTag3": "Health + Wellness",
+    "defaultTag4": "مدرسة",
+    "defaultTag5": "فرق",
+    "defaultTag6": "Chores",
+    "defaultTag7": "الإبداع"
+}

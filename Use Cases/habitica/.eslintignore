@@ -1,0 +1,17 @@
+# Compiled and vendored files
+coverage/
+database_reports/
+website/build/
+website/transpiled-babel/
+# Has its own linter
+website/client/
+website/common/transpiled-babel/
+dist/
+dist-client/
+apidoc_build/
+content_cache/
+i18n_cache/
+node_modules/
+
+# Old migrations, disabled
+migrations/archive/*

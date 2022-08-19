@@ -1,0 +1,35 @@
+{
+  "name": "laboratory-prototype",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node bin/www",
+    "debug": "DEBUG='RULEKEEPER'* DEBUG_COLORS=false node bin/www",
+    "test-plugin": "DEBUG='RULEKEEPER'* DEBUG_COLORS=false node tests/hook-tests/app-test.js",
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "basic-auth": "^2.0.1",
+    "bcryptjs": "^2.4.3",
+    "caller-id": "^0.1.0",
+    "colors": "^1.4.0",
+    "cookie-parser": "^1.4.6",
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-unless": "^0.5.0",
+    "flat": "^5.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.15",
+    "mongoose-auto-increment": "^3.0.1",
+    "morgan": "^1.10.0",
+    "shelljs": "^0.8.4",
+    "uuid": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint": "7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}

@@ -1,0 +1,10 @@
+../Laboratory Prototype/opa-wasm/examples
+
+build/
+
+**/policies.json
+*.wasm
+**/data.json
+
+# Test Results
+results/

@@ -1,0 +1,10 @@
+{
+    "noItemsAvailableForType": "No tienes <%= type %>.",
+    "foodItemType": "Comida para Mascotas",
+    "eggsItemType": "Huevos",
+    "hatchingPotionsItemType": "Pociones de Eclosión",
+    "specialItemType": "Artículos Especiales",
+    "lockedItem": "Artículo Bloqueado",
+    "allItems": "Todos los Artículos",
+    "petAndMount": "Mascota y Montura"
+}

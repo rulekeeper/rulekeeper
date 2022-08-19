@@ -1,0 +1,12 @@
+node_modules/**
+content_cache
+content_cache/**
+website/client/**
+test/**
+.git/**
+.idea*
+*.log
+*.swp
+*.swx
+website/raw_sprites/**
+content_cache/**

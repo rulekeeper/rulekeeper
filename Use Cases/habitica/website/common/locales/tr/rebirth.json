@@ -1,0 +1,14 @@
+{
+    "rebirthNew": "Reenkarnasyon: Yeni Bir Maceraya Yelken Aç!",
+    "rebirthUnlock": "Reenkarnasyon Küresi kullanmaya hak kazandın! Bu özel eşya sayesinde tüm görevlerin, başarıların ve hayvanların elinde kalmak kaydıyla 1. seviyeden yeni bir oyuna başlayabilirsin. Eğer Habitica'da yapılabilecek her şeyi bitirdiğini düşünüyorsan ya da yepyeni bir karakter oynama heyecanını tekrar yaşamak istiyorsan reenkarnasyonu deneyebilirsin!",
+    "rebirthAchievement": "Yeni bir maceraya başladın! Bu, senin <%= number %>. yeniden doğuşun. Ulaştığın en yüksek seviye <%= level %>. Bu başarı madalyasından bir tane daha kazanabilmek için, yeni maceranda bu seviyeden daha yukarısına ulaşmalısın!",
+    "rebirthAchievement100": "Yeni bir maceraya başladın! Bu, senin <%= number %>. yeniden doğuşun. Ulaştığın en yüksek seviye 100'ün üzerinde. Bu başarı madalyasından bir tane daha kazanabilmek için, yeni maceranda da en az 100. seviyeye ulaşmalısın!",
+    "rebirthBegan": "Yeni Bir Maceraya Başladı",
+    "rebirthText": "<%= rebirths %> Defa Yeni Maceraya Başladı",
+    "rebirthOrb": "Reenkarnasyon Küresini <%= level %> seviyesine ulaştıktan sonra baştan başlamak için kullandı.",
+    "rebirthOrb100": "100 ya da daha yüksek bir seviyeye ulaştıktan sonra Reenkarnasyon Küresi kullanarak baştan başladı.",
+    "rebirthOrbNoLevel": "Reenkarnasyon Küresini baştan başlamak için kullandı.",
+    "rebirthPop": "Başarılarını, koleksiyon eşyalarını ve ekipmanlarını muhafaza ederken karakterini bir 1. Seviye Savaşçı olarak yeniden başlat. İşlerin ve iş geçmişin korunacak ancak hepsi sarıya sıfırlanacak. Mücadele işlerininkiler hariç tamamlama serilerin silinecek. Altının, Tecrüben, Manan ve tüm Yetenek etkilerin yok olacak. Tüm bunlar anında gerçekleşecek. Daha fazla bilgi için, wiki'deki <a href='http://habitica.fandom.com/wiki/Orb_of_Rebirth' target='_blank'>Reenkarnasyon Küresi</a> sayfasına göz at.",
+    "rebirthName": "Reenkarnasyon Küresi",
+    "rebirthComplete": "Yeniden doğdun!"
+}

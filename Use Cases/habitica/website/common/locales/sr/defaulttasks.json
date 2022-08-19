@@ -1,0 +1,23 @@
+{
+    "defaultHabit1Text": "Produktivan rad (kliknite na olovku da izmenite zadatak)",
+    "defaultHabit2Text": "Brza Hrana (kliknite na olovku da izmenite zadatak)",
+    "defaultHabit3Text": "Penjati se stepenicama/ići liftom(kliknite na olovku da izmenite zadatak)",
+    "defaultHabit4Text": "Dodaj zadatak u Habitica",
+    "defaultHabit4Notes": "Either a Habit, a Daily, or a To-Do",
+    "defaultTodo1Text": "Pridružiti se Habitica-u (Urađeno, klikni me!)",
+    "defaultTodoNotes": "Možete da uradite ovaj zadatak, da ga izmenite, ili da ga uklonite.",
+    "defaultReward1Text": "Pauza 15 minuta",
+    "defaultReward2Text": "Reward yourself",
+    "defaultReward2Notes": "Watch TV, play a game, eat a treat, it's up to you!",
+    "defaultTag1": "Work",
+    "defaultTag2": "Exercise",
+    "defaultTag3": "Health + Wellness",
+    "defaultTag4": "School",
+    "defaultTag5": "Teams",
+    "defaultTag6": "Chores",
+    "defaultTag7": "Creativity",
+    "choresDailyText": "Operi sudove",
+    "choresHabit": "10 minuta čišćenja",
+    "schoolDailyText": "Završi domaći",
+    "selfCareHabit": "Napravi kratku pauzu"
+}

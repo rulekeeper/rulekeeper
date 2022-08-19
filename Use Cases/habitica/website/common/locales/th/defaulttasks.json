@@ -1,0 +1,19 @@
+{
+    "defaultHabit1Text": "ทำงานที่มีประโยชน์ (กดที่รูปดินสอเพื่อแก้ไข)",
+    "defaultHabit2Text": "กินอาหารขยะ (กดที่รูปดินสอเพื่อแก้ไข)",
+    "defaultHabit3Text": "ขี้นบันได/ลิฟต์ (กดที่รูปดินสอเพื่อแก้ไข)",
+    "defaultHabit4Text": "Add a task to Habitica",
+    "defaultHabit4Notes": "Either a Habit, a Daily, or a To-Do",
+    "defaultTodo1Text": "เข้าร่วม Habitica (สำเร็จเรียบร้อยแล้ว!)",
+    "defaultTodoNotes": "คุณสามารถจัดการแผนงานที่ต้องทำให้เสร็จเรียบร้อย, แก้ไข, หรือลบทิ้ง",
+    "defaultReward1Text": "พัก 15 นาที",
+    "defaultReward2Text": "Reward yourself",
+    "defaultReward2Notes": "Watch TV, play a game, eat a treat, it's up to you!",
+    "defaultTag1": "งาน",
+    "defaultTag2": "ออกกำลังกาย",
+    "defaultTag3": "สุขภาพ",
+    "defaultTag4": "โรงเรียน",
+    "defaultTag5": "ทีม",
+    "defaultTag6": "งานบ้าน",
+    "defaultTag7": "งานสร้างสรรค์"
+}

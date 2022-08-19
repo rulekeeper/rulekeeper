@@ -1,0 +1,8 @@
+{
+  "noItemsAvailableForType": "У вас немає <%= type %>.",
+  "foodItemType": "Їжа",
+  "eggsItemType": "Яйця",
+  "hatchingPotionsItemType": "Зілля Дозрівання",
+  "specialItemType": "Спеціальні Предмети",
+  "lockedItem": "Заблокований предмет"
+}

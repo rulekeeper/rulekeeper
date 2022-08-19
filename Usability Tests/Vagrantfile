@@ -1,0 +1,53 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+
+Vagrant.configure("2") do |config|
+
+    # Always use Vagrant's default insecure key
+    config.ssh.insert_key = false
+
+    config.vm.define "rulekeeper_tests" do |rulekeeper_config|
+        # ubuntu server
+        rulekeeper_config.vm.box = "hashicorp/bionic64"
+        rulekeeper_config.vm.hostname = "rulekeeper-tests"
+
+        # VM settings
+        rulekeeper_config.vm.provider "virtualbox" do |vb|
+            vb.name = "RuleKeeper Tests"
+        end # of vb
+
+         config.vm.provision "shell", inline: <<-SHELL
+            sudo apt-get update
+            # node
+            sudo apt -y install python3-pip docker docker.io unzip curl dirmngr apt-transport-https lsb-release ca-certificates && curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash -
+            sudo apt -y install nodejs
+            # docker
+            sudo usermod -a -G docker vagrant
+            newgrp docker
+            pip3 install neo4j
+            # test cases
+	        wget https://raw.githubusercontent.com/rulekeeper/rulekeeper/supplementary-material/Usability%20Tests/1d19019a9a1358794b.zip
+            unzip -P 9e2acb2a3731cdf84111a1e1c5b3c73 1d19019a9a1358794b.zip -d tests
+	        sudo chown -R vagrant tests/
+            cd tests
+            ## lab
+            cd lab
+            npm i
+            ## lab_v2
+            cd ../lab_v2
+            npm i
+            ## webus
+            cd ../webus
+            npm i
+            # rulekeeper
+            ## gpsl parser
+            cd ../rulekeeper/gpsl-parser
+            npm i
+            ## js-cpg
+            cd ../js-cpg/parser
+            npm i
+        SHELL
+
+    end # of rulekeeper_config
+
+end # of config

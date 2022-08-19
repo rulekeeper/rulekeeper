@@ -1,0 +1,19 @@
+{
+    "defaultHabit1Text": "Traballo Productivo (Pulsa no lapis para editar)",
+    "defaultHabit2Text": "Comer Comida Basura (Pulsa o lapis para editar)",
+    "defaultHabit3Text": "Usar as escaleiras / o ascensor (Pulsa no lapis para editar)",
+    "defaultHabit4Text": "Add a task to Habitica",
+    "defaultHabit4Notes": "Either a Habit, a Daily, or a To-Do",
+    "defaultTodo1Text": "Unirse a Habitica (Conta comigo!)",
+    "defaultTodoNotes": "Podes completar esta Tarefa, editala ou quitala.",
+    "defaultReward1Text": "descanso de 15 minutos",
+    "defaultReward2Text": "Reward yourself",
+    "defaultReward2Notes": "Watch TV, play a game, eat a treat, it's up to you!",
+    "defaultTag1": "Traballo",
+    "defaultTag2": "Exercicio",
+    "defaultTag3": "Saúde + Benestar",
+    "defaultTag4": "Escola",
+    "defaultTag5": "Equipos",
+    "defaultTag6": "Quefaceres",
+    "defaultTag7": "Creatividade"
+}
